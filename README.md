@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 Hi I'm Alan I am junior Python developer interested in Backend. 
 
-My Hard skills: 
+💪My Hard skills: 
 - Python, OOP, algorithms 
 - Telegram 
 - PyGame 
