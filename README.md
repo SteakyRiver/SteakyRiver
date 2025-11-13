@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-Hi I'm Alan I am junior Python developer interested in Backend. <img width="1024" height="576" alt="Why-Python-Heres-Why-1024x576" src="https://github.com/user-attachments/assets/6e876145-755d-4727-8838-459cc69f46fe" />
+Hi I'm Alan I am junior Python developer interested in Backend. <img width="102,4" height="57,6" alt="Why-Python-Heres-Why-1024x576" src="https://github.com/user-attachments/assets/6e876145-755d-4727-8838-459cc69f46fe" />
 
 
 💪My Hard skills: 
