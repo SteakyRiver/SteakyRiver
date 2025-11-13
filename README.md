@@ -14,7 +14,7 @@ My Hard skills:
 - Flask 
 - SQLite
 
-Finished projects:
+📌Finished projects:
 - Computer vision for animals
 - Computer vision for road
 - Computer vision for human faces
